@@ -1,0 +1,42 @@
+﻿  Background.cpp
+  BulletCountSprt.cpp
+  Demo.cpp
+  Game.cpp
+  GameObject.cpp
+  GameplayScene.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(43): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  HealthSprt.cpp
+  MainMenuScene.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\mainmenuscene.h(12): warning C4005: 'NUM_BUTTON': macro redefinition
+  c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\uihandler.h(28): note: see previous definition of 'NUM_BUTTON'
+  MainMenuUI.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\mainmenuui.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\mainmenuui.cpp(51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  SceneHandler.cpp
+  Shooter.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\mainmenuscene.h(12): warning C4005: 'NUM_BUTTON': macro redefinition
+  c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\uihandler.h(28): note: see previous definition of 'NUM_BUTTON'
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\shooter.h(9): warning C4005: 'FRAME_DUR': macro redefinition
+  c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\spritebuilder.h(20): note: see previous definition of 'FRAME_DUR'
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\shooter.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpriteBuilder.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\spritebuilder.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  UIHandler.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\uihandler.cpp(66): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  VirusGameObject.cpp
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\vc110.pdb'; linking object as if no debug info
+  Lesson05.vcxproj -> C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\Lesson5.exe
