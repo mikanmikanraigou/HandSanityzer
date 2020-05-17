@@ -1,0 +1,13 @@
+﻿  GameplayScene.cpp
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(43): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\satria harinamanata\documents\pemrograman_game\vs\lesson05\gameplayscene.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  Lesson05.vcxproj -> C:\Users\Satria Harinamanata\Documents\Pemrograman_Game\vs\Debug\Lesson5.exe
